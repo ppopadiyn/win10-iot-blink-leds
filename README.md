@@ -5,3 +5,9 @@ Demos on:
 - C# and UWP
 - Python
 - Node.js
+
+## Raspberry Setup
+- Pin 1 cathode to GPIO 5
+- Pin 2 cathode to GPIO 6
+- Pin 1 and 2 anode to a 330 ohm resistor
+- The other end of the resistor to a 3.3V pin
